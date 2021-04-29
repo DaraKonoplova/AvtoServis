@@ -1,0 +1,379 @@
+@charset "utf-8";
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+html {
+    height: 100%;
+}
+
+body{ 
+  font-size: 18pt;
+  margin:0 auto; 
+  background:#f8e4bf;
+  font-family: "Segoe UI", Arial, sans-serif;
+  line-height: 120%;
+}
+
+
+ #Header {
+     margin-bottom: 5px;
+     margin: 0;
+     float: left;
+     width: 1316px;
+     height: 40px;
+     border-bottom: 2px solid rgb(14, 38, 58);
+     background:#3f5668;
+     font-family: "Segoe UI", Arial, sans-serif;
+     padding: 5px;  
+ }
+
+Header div {
+  float: left;
+}
+
+#Home {
+    color: #d8f5c9;
+    text-decoration: none;
+  }
+  #Home:hover {
+    color: rgb(210, 233, 3);
+    -webkit-transition: all.9s ease;
+    -o-transition: all.9s ease;
+    -ms-transition: all.9s ease;
+    transition: all.9s ease;
+  }
+
+#logo{
+  float: left;
+  height: 50px;
+  width: 420px;
+}
+
+#tt{
+    margin-right:3%; 
+          font-size: 16pt;
+  margin-top: 4px;
+  font-family: "CCRickVeitch W05(RUS BY LYAJKA)" , Arial, sans-serif;
+}
+
+a {
+  color: #f2feff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f9cc3f;
+  -webkit-transition: all.9s ease;
+  -o-transition: all.9s ease;
+  -ms-transition: all.9s ease;
+  transition: all.9s ease;
+}
+
+
+nk {
+  float: left;
+  color: #f9cb41;
+}
+
+
+#OoUs {
+  width: 850px;
+}
+
+#Home2 {
+    margin-right:2%;
+  float: left;
+  text-decoration: none;
+  color: #f2feff;
+ 
+}
+
+#Home2:hover {
+  
+  float: left;
+  text-decoration: none;
+  color: #e8f64c;
+ 
+}
+
+
+#Home21 {
+  float: left;
+  text-decoration: none;
+  background-color: darkcyan;
+  color: #f2feff;
+  border-radius: 7px;
+  line-height: 90%;
+  padding: 5px;
+}
+
+#Home22 {
+  float: left;
+  text-decoration: none;
+  background-color: darkcyan;
+  color: #f2feff;
+  border-radius: 7px;
+  padding: 2px;
+}
+
+#Home23 {
+  float: left;
+  text-decoration: none;
+  background-color: darkcyan;
+  color: #f2feff;
+  border-radius: 7px;
+  padding: 2px;
+}
+
+#Reg {
+  float: left;
+  text-align: right;
+  width: 400px;
+}
+
+#r1 {
+    margin-left: 150px;
+  background-color: darkcyan;
+  color: #f2feff;
+  float: left;
+  border-radius: 7px;
+  padding: 3px;
+}
+#r2 {
+  background-color: darkcyan;
+  color: #f2feff;
+  float: right;
+  border-radius: 7px;
+  padding: 2px;
+}
+
+
+
+#text1 {
+  background-color: rgba(185, 186, 255, 0.699);
+  border-radius: 20px;
+  padding: 6px;
+  
+  margin-left: 6px;
+  width:50%;
+  height: auto;
+  text-align: justify;
+}
+#img1 {
+    float: left;
+    margin: 0 auto;
+    bottom: 0;
+    height: 600px;
+    width: 1326px;
+    background-image: url(../Img/car3.png);
+  }
+
+  #img2 {
+    float: left;
+    margin: 0 auto;
+    bottom: 0;
+    height: 250px;
+    width: 120px;
+    background-image: url(../Img/Kartinki1.png);
+  }
+
+  #img3 {
+    float: left;
+    margin: 0 auto;
+    bottom: 0;
+    height: 250px;
+    width: 120px;
+    background-image: url(../Img/Kartink2.png);
+  }
+
+  #img4 {
+    float: left;
+    margin: 0 auto;
+    bottom: 0;
+    height: 250px;
+    width: 120px;
+    background-image: url(../Img/Kartink3.png);
+  }
+
+  #img5 {
+    float: left;
+    text-align: center;
+    margin: 100px;
+    bottom: 0;
+    height: 40px;
+    width: 400px;
+    background-color: cornflowerblue;
+    border-radius: 30px;
+  }
+  #img6 {
+    float: left;
+    margin: 0px 0px 0px 800px;
+    bottom: 0;
+    height: 500px;
+    width: 370px;
+    background-image: url(../Img/Gif.gif);
+  }
+
+
+  #img11 {
+    
+    float: left;
+    text-align: left;
+    padding: 5px;
+    font-size: 20pt;
+    margin: 20px;
+    text-align: center;
+    bottom: 0;
+    height: 250px;
+    width: 400px;
+    background-color: rgba(100, 148, 237, 0.726);
+    border-radius: 30px;
+  }
+
+  #img13 {
+    float: left;
+    margin: 0px 0px 0px 1000px;
+    bottom: 0;
+    height: 300px;
+    width: 260px;
+    background-image: url(../Img/Gif2.gif);
+  }
+
+#text2 {
+  background-color: rgba(185, 186, 255, 0.699);
+  border-radius: 20px;
+  padding: 6px;
+  margin-top: 6px;
+  margin-left: 47%;
+  width:50%;
+  height: auto;
+  text-align: justify;
+}
+
+#text3 {
+  background-color: rgba(185, 186, 255, 0.699);
+  border-radius: 20px;
+  padding: 6px;
+  margin-top: 6px;
+  margin-left: 6px;
+  width:50%;
+  height: auto;
+  text-align: justify;
+}
+
+#Osnova{
+  width: 570px;
+  margin: auto;
+}
+
+#Forma{
+  float: left;
+  margin: 5px;
+  border-radius: 20px;
+  width: 260px;
+   background-color: #5dc4b6c4;
+  font-size: 115%;
+  text-align: center;
+  padding-bottom: 6px;
+}
+
+#Forma3{
+  float: left;
+  margin: 5px;
+  border-radius: 20px;
+  width: 260px;
+   background-color: #5dc4b6c4;
+  font-size: 115%;
+  text-align: center;
+  padding-bottom: 6px;
+}
+
+#Forma4{
+  float: left;
+  margin: 5px;
+  border-radius: 20px;
+  width: 260px;
+   background-color: #5dc4b6c4;
+  font-size: 90%;
+  text-align: center;
+  padding-bottom: 6px;
+}
+
+#Forma5{
+    float: left;
+    margin: 5px;
+    border-radius: 20px;
+    width: 530px;
+     background-color: #5dc4b6c4;
+    font-size: 90%;
+    text-align: center;
+    padding-bottom: 6px;
+  }
+
+#map{
+  width: 600px;
+  margin: auto;
+}
+
+label {
+    color: #031627;
+}
+input {
+    text-align: center;
+    padding: 2px;
+    border-radius: 6px;
+    border: 0px;
+  width: 90%;
+  font-size: 65%;
+}
+
+select {
+    text-align: center;
+    text-align-last: center;
+    border: 0px;
+    border-radius: 5px;
+    height: 30px;
+    width: 90%;
+}
+option {
+    text-align: center;
+    text-align-last: center;
+    border: 0px;
+}
+
+#submit {
+    background-color: #5CA4A9;
+    border-radius: 20px;
+    border: 1px;
+  height: 60px;
+  width: 600px;
+}
+
+#submit:hover {
+    background-color: #F2A261;
+    color: #031627;
+    border-radius: 20px;
+    border: 2px #031627;
+  height: 60px;
+  width: 600px;
+}
+
+#submit1 { 
+    margin: auto;
+    border-radius: 20px;
+    border: 0px;
+  height: 60px;
+  width: 600px;
+}
+
+
+#footer {
+  width: 100%;
+  height: 5%;
+  bottom: 0px;
+  position: fixed;
+  background-color:#3f5668 ;
+}
